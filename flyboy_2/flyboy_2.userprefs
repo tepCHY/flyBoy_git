@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/player.cs">
+    <Files>
+      <File FileName="Assets/Script/laurch_sequence.cs" Line="14" Column="34" />
+      <File FileName="Assets/Script/player.cs" Line="48" Column="75" />
+      <File FileName="Assets/Script/Wind.cs" Line="23" Column="73" />
+      <File FileName="Assets/Script/singletonController.cs" Line="15" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
